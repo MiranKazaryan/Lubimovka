@@ -1,0 +1,17 @@
+.header__plus{
+    background: transparent;
+    transition: 0.4s ease;
+  }
+
+  .header__button:hover  .header__plus{
+    color: #ecebe8;
+    fill:#ecebe8; 
+  }
+  .header__button-projects:hover .header__plus{
+    color: #ecebe8;
+    fill:#ecebe8; 
+  }
+  .play__button:hover .header__plus{
+    color: #ecebe8;
+    fill:#ecebe8;
+  }

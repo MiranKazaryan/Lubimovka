@@ -1,13 +1,22 @@
 @import url(./vendor/normalize.css);
-@import url(/vendor/fonts.css);
+@import url(./vendor/fonts/fonts.css);
 
 @import url(./blocks/page/page.css);
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__navigation/header__navigation.css);
 @import url(./blocks/header/__button/header__button.css);
+@import url(./blocks/header/__button-projects/header__button-projects.css);
 @import url(./blocks/header/__social/header__social.css);
 @import url(./blocks/header/__links/header__links.css);
 @import url(./blocks/header/__link/header__link.css);
 @import url(./blocks/header/__logo/header__logo.css);
+@import url(./blocks/header/__plus/header__plus.css);
 @import url(./blocks/header/__block/header__block.css);
+
+@import url(./blocks/play/play.css);
+@import url(./blocks/play/__img/play__img.css);
+@import url(./blocks/play/__text/play__text.css);
+@import url(./blocks/play/__title/play__title.css);
+@import url(./blocks/play/__subtitile/play__subtitle.css);
+@import url(./blocks/play/__button/play__button.css);

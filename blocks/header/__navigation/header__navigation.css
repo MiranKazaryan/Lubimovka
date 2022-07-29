@@ -1,6 +1,6 @@
 .header__navigation{
     border-bottom: 1px solid #242424;
-    min-height: 61px;
-    min-width: 1440px;
+    max-height: 54px;
+    max-width: 1440px;
     display: flex;
 }

@@ -1,0 +1,39 @@
+.header__button-projects {
+  min-width: 120px;
+  min-height: 31px;
+  border: 0;
+  border-right: 1px solid #242424;
+  border-bottom: 1px solid #242424;
+  background: none;
+  padding: 0;
+  margin: 0;
+  margin-top: 33px;
+  padding-left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  text-decoration: none;
+  color: #232323;
+  cursor: pointer;
+  background-color: transparent;
+  font-family: Formular;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: linear-gradient(to right, transparent 50%, #242424 50%) left;
+  background-size: 200%;
+}
+
+
+.header__button-projects:hover {
+  background-position: right;
+  color: #ecebe8;
+  fill:#ecebe8;  transition: 0.8s;
+}
+
+.header__button-projects:active {
+  transform: scale(1.1, 1.1);
+}
